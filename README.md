@@ -64,3 +64,7 @@ LCEL 예시:
   - 
 시스템 구조
 <img width="1410" height="1866" alt="image" src="https://github.com/user-attachments/assets/eab99ac2-fec7-465f-bd7f-f643f0c8c0a9" />
+
+결과물
+<img width="1757" height="796" alt="image" src="https://github.com/user-attachments/assets/23ed3b2b-10dd-4983-9c65-c8eee51a3355" />
+
